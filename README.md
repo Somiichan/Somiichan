@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on learning how to improve my Coding Skills
-- 🌱 I’m currently learning HTML, CSS, Java and JavaScript
+- 🌱 I’m currently learning JavaScript and C++
 - 👯 I’m looking to collaborate on anything in the future
 - 🤔 I’m looking for help with all my knowledge about dev's world
 - 💬 Ask me about ...
